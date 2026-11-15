@@ -87,6 +87,5 @@ An AI-powered career guidance and placement preparation portal designed to help 
 
 *Always learning. Always building. Always improving.* 🚀
 
----
-
+--- 
 ⭐ *Always learning, building and improving.*
